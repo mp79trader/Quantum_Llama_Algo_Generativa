@@ -13,7 +13,7 @@
 - **Arquitectura Híbrida GAN:** Utiliza un Generador LSTM y un Discriminador CNN para modelar series temporales financieras complejas.
 - **Ingeniería de Características Avanzada:**
     - Transformada de Fourier para descomposición de tendencias.
-    - Análisis de Sentimiento Macro mediante modelos BERT (NLP).
+    - Análisis de Sentimiento Macro mediante modelos BERT (NLP). 
     - Autoencoders para extracción de características latentes.
     - Análisis de correlación intermercado (VIX, GC, CL).
 - **Optimización Dinámica:** Implementa Aprendizaje por Refuerzo (PPO/Rainbow) para el ajuste dinámico de hiperparámetros.
